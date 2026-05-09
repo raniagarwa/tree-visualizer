@@ -1,6 +1,10 @@
 # Tree Visualizer
 
-A React Flow based Tree Visualizer project.
+A React Flow based Tree Visualizer project. 
+
+## Live Demo
+
+https://tree-visualizer-kappa.vercel.app
 
 ## Project Screenshot
 
@@ -23,5 +27,3 @@ A React Flow based Tree Visualizer project.
 npm install
 npm run dev
 
-## Live Demo
-https://tree-visualizer-kappa.vercel.app
