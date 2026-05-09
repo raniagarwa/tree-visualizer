@@ -2,6 +2,10 @@
 
 A React Flow based Tree Visualizer project.
 
+## Project Screenshot
+
+![Tree Visualizer](tree-visualizer.png) 
+
 ## Features
 - Interactive tree visualization
 - Expand and collapse nodes
